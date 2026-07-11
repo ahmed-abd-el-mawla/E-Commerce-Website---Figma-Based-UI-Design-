@@ -103,7 +103,7 @@
 |----------|------|
 | 🎨 Figma UI Design | [View Design](https://www.figma.com/design/wacKaKFTziXt41dquEUPjP/Full-E-Commerce-Website-UI-UX-Design--Community-?node-id=1-3&t=rTACLO2wNU6sX08h-0) |
 | 📑 Google Sheets Test Cases for User Side exported from Zephyr | [View Test Cases](https://docs.google.com/spreadsheets/d/1iMRYqKZoCgIkAWfR2jcCLjBL_JwrkAaa/edit?gid=1703799632#gid=1703799632) |
-| 📑 Google Sheets Test scenarios for Admin Side exported from Zephyr | [View Test Cases](ضع_رابط_جوجل_شيت_هنا) |
+| 📑 Google Sheets Test scenarios for Admin Side exported from Zephyr | [View Test Cases](https://docs.google.com/spreadsheets/d/1GrAJyjge_Pj-TXccsu-hQcLt4pQcuA7-578YPx68RE8/edit?gid=1839395546#gid=1839395546) |
 
 ---
 
