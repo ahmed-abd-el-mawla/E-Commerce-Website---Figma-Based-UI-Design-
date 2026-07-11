@@ -120,17 +120,17 @@ This section contains screenshots from the project.
 
 <div align="center">
 
-<img width="1917" height="881" alt="image1" src="https://github.com/user-attachments/assets/38e18231-f2fb-4f70-b085-12113f9a71cd" />
+<img width="1917" height="881" alt="image1" src="https://github.com/user-attachments/assets/adc124bf-1c1a-4379-ab72-082b717c1602" />
 
-<img width="1920" height="882" alt="image2" src="https://github.com/user-attachments/assets/c9e6f127-7bc6-4a80-b2aa-e4bc28175311" />
+<img width="1920" height="882" alt="image2" src="https://github.com/user-attachments/assets/26021ef0-b00a-434c-97a1-f92a6b02d1ec" />
 
-<img width="1918" height="872" alt="image3" src="https://github.com/user-attachments/assets/80590434-b4c1-4ac8-8c21-de01f4d80381" />
+<img width="1918" height="872" alt="image3" src="https://github.com/user-attachments/assets/3c76f4e1-56f6-475e-a0b6-2576a6b34464" />
 
-<img width="1917" height="880" alt="image4" src="https://github.com/user-attachments/assets/0a18232f-a2d8-467d-a699-556b13b06638" />
+<img width="1917" height="880" alt="image4" src="https://github.com/user-attachments/assets/62125c1e-9e5b-4d19-afeb-4c5e8bfc1e38" />
 
-<img width="1920" height="881" alt="image5" src="https://github.com/user-attachments/assets/de5da7f9-2999-4e6c-939d-73a54fe15165" />
+<img width="1920" height="881" alt="image5" src="https://github.com/user-attachments/assets/9d70e69b-0f7e-4c20-82e0-c052a4b7ecf8" />
 
-<img width="1920" height="877" alt="image6" src="https://github.com/user-attachments/assets/0a3ea472-226d-4904-8e96-27edabe21c2f" />
+<img width="1920" height="877" alt="image6" src="https://github.com/user-attachments/assets/b760f61e-7cdb-42bd-a97b-4718747bf757" />
 
 </div>
 
@@ -146,17 +146,19 @@ This section contains screenshots from the project.
 
 <div align="center">
 
-<img width="1600" height="1280" alt="products_management" src="https://github.com/user-attachments/assets/7342ce87-84ef-469a-8c3e-af3c7f55bb3d" />
+<img width="1600" height="1280" alt="products_management" src="https://github.com/user-attachments/assets/893f94e5-a15c-45ce-8400-163849cdf5c4" />
 
-<img width="477" height="642" alt="add product" src="https://github.com/user-attachments/assets/60bbf55f-e555-4de2-b52d-30b865f7358b" />
+<img width="477" height="642" alt="add product" src="https://github.com/user-attachments/assets/ea783537-6468-47ca-bf04-35963515a527" />
 
-<img width="830" height="685" alt="orders_management" src="https://github.com/user-attachments/assets/2fa71ea2-4f7c-44c5-8bce-b236fa40c0ac" />
+<img width="830" height="685" alt="orders_management" src="https://github.com/user-attachments/assets/79c4b102-5e11-4924-a53d-ad08aa5b9443" />
 
-<img width="1600" height="1280" alt="coupons_management" src="https://github.com/user-attachments/assets/a0c27929-bdc8-4124-a69b-f8d7611f14bf" />
+<img width="1600" height="1280" alt="coupons_management" src="https://github.com/user-attachments/assets/844b1022-c749-4457-98df-44d242882c32" />
 
-<img width="491" height="540" alt="add coupon" src="https://github.com/user-attachments/assets/6924ad01-e8a4-4b71-ad37-6eb13970a032" />
+<img width="491" height="540" alt="add coupon" src="https://github.com/user-attachments/assets/356c6d24-2da0-40f5-9162-4761b7347882" />
 
-<img width="1600" height="1280" alt="reports_analytics" src="https://github.com/user-attachments/assets/ae20f80e-eee0-4109-a68f-091fb5bb78a2" />
+<img width="1600" height="1280" alt="reports_analytics" src="https://github.com/user-attachments/assets/518352b8-d3d3-42a2-98be-d9fe2f21e9f7" />
+
+
 
 </div>
 
@@ -172,15 +174,16 @@ This section contains screenshots from the project.
 
 <div align="center">
 
-<img width="947" height="692" alt="Sign Up" src="https://github.com/user-attachments/assets/3adee126-77d0-41a1-b083-2df393c130ee" />
+<img width="947" height="692" alt="Sign Up" src="https://github.com/user-attachments/assets/f075f82d-159f-444a-96df-60cc2a0b475c" />
 
-<img width="932" height="697" alt="Log In" src="https://github.com/user-attachments/assets/176080e7-42d4-4a03-a900-3227e216cf17" />
+<img width="932" height="697" alt="Log In" src="https://github.com/user-attachments/assets/29f1b936-9f7a-47f8-b8fd-4cdb972bd6a8" />
 
-<img width="742" height="385" alt="E-Commerce HomePage" src="https://github.com/user-attachments/assets/7142d469-5a36-495e-ab6c-0fa0e20946d9" />
+<img width="742" height="385" alt="E-Commerce HomePage" src="https://github.com/user-attachments/assets/ecc87337-5b50-4fa1-95ea-72cad4a22054" />
 
-<img width="753" height="787" alt="Product Details page" src="https://github.com/user-attachments/assets/ef7803ef-b0d6-4e38-8691-94372e6d1acb" />
+<img width="753" height="787" alt="Product Details page" src="https://github.com/user-attachments/assets/adcde062-cd78-4c4e-9e59-bef333610379" />
 
-<img width="911" height="767" alt="CheckOut" src="https://github.com/user-attachments/assets/ff241f42-809c-46ae-8de6-8aee0f87962b" />
+<img width="911" height="767" alt="CheckOut" src="https://github.com/user-attachments/assets/b957d943-2feb-4c5d-9576-22f561eda207" />
+
 
 </div>
 
