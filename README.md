@@ -17,13 +17,13 @@
 
 ## 🎯 About this Project
 
-- This repository documents the complete Manual Testing process for a high-fidelity **E-Commerce Website** designed in **Figma**.
+- This repository documents a comprehensive Manual Testing project for a high-fidelity E-Commerce Website UI design built in Figma.
 
-- The project demonstrates the full software testing lifecycle, from requirement analysis and test design to execution and defect reporting.
-
-- Testing activities were managed using **Jira** and **Zephyr Essential**, while all detailed test cases were documented in **Google Sheets**.
-
-- The project includes comprehensive testing for both the **User Side** and the **Admin Dashboard**, covering functional behavior, UI validation, positive scenarios, and negative scenarios.
+- The project covers the complete test design process, including analyzing UI designs to identify testable components, defining testing scope, and designing structured test cases and test scenarios covering both positive and negative scenarios.
+  
+- All testing activities were planned and managed following Agile and Scrum methodologies, with testing artifacts organized and tracked using Jira and Zephyr Essential.
+  
+- The project covers both the User Side and the Admin Dashboard.
 
 ---
 
